@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+@import "@angular/material/prebuilt-themes/deeppurple-amber.css";
+@import "jasmine-core/lib/jasmine-core/jasmine.css";
+
+body {
+  margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #fafafa;
+}
